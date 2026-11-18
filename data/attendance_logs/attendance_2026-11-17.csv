@@ -1,0 +1,3 @@
+Id,User Id,Name,Department,Date,Timestamp,Status,Confidence,Metric,Subject,Period
+2,STU501,Emma Watson,Computer Science,2026-11-17,2026-11-17 10:05:00,Present,94.5,cosine,Computer Networks,Period 2
+1,STU501,Emma Watson,Computer Science,2026-11-17,2026-11-17 09:05:00,Present,95.0,cosine,Operating Systems,Period 1
