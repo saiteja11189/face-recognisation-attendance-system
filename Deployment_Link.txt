@@ -1,0 +1,29 @@
+================================================================================
+LPU SMART AI FACE RECOGNITION ATTENDANCE SYSTEM - DEPLOYMENT LINKS & DETAILS
+================================================================================
+
+1. GITHUB REPOSITORY:
+   https://github.com/saiteja11189/face-recognisation-attendance-system
+
+2. DIRECT ONE-CLICK STREAMLIT CLOUD DEPLOYMENT LINK:
+   https://share.streamlit.io/deploy?repository=saiteja11189/face-recognisation-attendance-system&branch=main&mainModule=app.py
+
+3. STREAMLIT CLOUD DASHBOARD:
+   https://share.streamlit.io/
+
+--------------------------------------------------------------------------------
+DEPLOYMENT CONFIGURATION DETAILS:
+--------------------------------------------------------------------------------
+- Repository:     saiteja11189/face-recognisation-attendance-system
+- Default Branch: main
+- Main File Path: app.py
+- System Config:  packages.txt (libgl1, libglib2.0-0 for Linux OpenCV)
+- Python Config:  requirements.txt (opencv-python-headless, streamlit)
+- Default Theme:  Dark Mode (#f37023 Solar Orange Accent)
+
+--------------------------------------------------------------------------------
+EXPECTED LIVE APP URL (Once deployed on Streamlit Cloud):
+--------------------------------------------------------------------------------
+   https://face-recognisation-attendance-system.streamlit.app
+   (or whichever custom subdomain you pick during deployment)
+================================================================================
